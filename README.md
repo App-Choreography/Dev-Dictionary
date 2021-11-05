@@ -2,4 +2,24 @@
 
 # Developers' Dictionary 📚🔎🌐
 
+### Areas to be covered:
+
+📌 HTML.
+
+📌 CSS.
+
+📌 JavaScript.
+
+📌 React.js
+
+📌 Node.js
+
+📌 Java.
+
+📌 SQL.
+
+📌 Git.
+
+📌 Graphic Design.
+
 ## 🏗️ This is in progress... 🏗️
