@@ -2,6 +2,9 @@
 
 # Developers' Dictionary 📚🔎🌐
 
+### HTML Resources: <img src="https://www.mahdiarmansouri.ir/intense/assets/img/htmlIcon.png" height=50 />
+
+
 ### Areas to be covered:
 
 📌 HTML.
