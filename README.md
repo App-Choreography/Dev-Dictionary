@@ -6,7 +6,7 @@ Tools, blogs, tutorials and resources on a range of Languages.
 <details close>
 <summary>How to Contribute:</summary>
 <br>
-    Each time you contribute and add a resource to our lists, we will add your name here : <a href="">Contributor Tally </a>, where you we can who has added the most resources.
+    Each time you contribute and add a resource to our lists, we will add your name here : <a href="https://github.com/App-Choreography/Dev-Dictionary/issues/1">Contributor Tally </a>, where you we can who has added the most resources.
 
     Simply star this repo, fork it to your user area, and add a resource in the correct section, in the correct format. 
 
