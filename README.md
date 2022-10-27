@@ -63,7 +63,8 @@ Then open a pull request and wait for an App-Choreographer to merge and add you 
 | [JS Blog](https://skillcrush.com/blog/javascript/)                                                                              |             |
 | [Freecodecamp JS algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) |             |
 | [JS Courses on PluralSight](https://www.pluralsight.com/paths/javascript-core-language)                                         |             |
-| [JavaScript.info](https://javascript.info)                                                                                      |             |
+| [JavaScript.info](https://javascript.info)                                                                                      |A well-structured free website which will help you learn about the JS language, which covers basics, advanced, and DOM elements.|
+| [JavaScript Visualized by Lydia Hallie](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif)                       |A series of posts on dev.to from Lydia Hallie which explain some JS topics beautifully using small gifs or videos.|
 
 ### Git Resources:
 
