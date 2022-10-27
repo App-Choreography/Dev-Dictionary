@@ -45,7 +45,7 @@ Then open a pull request and wait for an App-Choreographer to merge and add you 
 
 | Link                                                                        | Description |
 | --------------------------------------------------------------------------- | ----------- |
-| [W3 Schools CSS Course](https://www.w3schools.com/css/)                     |             |
+| [W3 Schools CSS Course](https://www.w3schools.com/css/)                     |  A structured CSS course is provided by W3schools. W3schools provides a built-in web code editor, which can be used to write and run your CSS code online. After every topic, it provides you with short quizzes as well to test your knowledge.|
 | [CSS Tricks](https://css-tricks.com/)                                       |             |
 | [Mozilla Web Docs on CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) |             |
 | [Codecademy Learn CSS](https://www.codecademy.com/learn/learn-css)          |             |
