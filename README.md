@@ -63,6 +63,7 @@ Then open a pull request and wait for an App-Choreographer to merge and add you 
 | [JS Blog](https://skillcrush.com/blog/javascript/)                                                                              |             |
 | [Freecodecamp JS algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) |             |
 | [JS Courses on PluralSight](https://www.pluralsight.com/paths/javascript-core-language)                                         |             |
+| [JavaScript.info](https://javascript.info)                                                                                      |             |
 
 ### Git Resources:
 
