@@ -120,6 +120,7 @@ Then open a pull request and wait for an App-Choreographer to merge and add you 
 | [Techtarget Learn SQL](https://www.techtarget.com/searchdatamanagement/definition/SQL) |             |
 | [SQL Blog](https://blog.hubspot.com/marketing/sql-tutorial-introduction)               |             |
 | [DataQuest - Why learn SQL](https://www.dataquest.io/blog/why-learn-sql/)              |             |
+| [Progate - SQL](https://progate.com/courses/sql) |The course is well-structured, with chapters covering everything from fundamentals to advanced SQL. |
 
 ### Graphic Design Resources:
 
